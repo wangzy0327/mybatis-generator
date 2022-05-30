@@ -1,0 +1,1 @@
+## mybatis mapper配置文件生成路径
